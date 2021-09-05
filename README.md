@@ -4,5 +4,7 @@ Projet de l'année de terminale STI2D. Création d'un fauteuil roulant électriq
 ---
 Description
 ---
+Mon travail consistait à étudier et à mettre en place la partie "commande manuelle" du fauteuil roulant. 
+Ma partie n'estait pas en lien avec la programmation. 
 
-A venir... 
+Reste de la description à venir... 
